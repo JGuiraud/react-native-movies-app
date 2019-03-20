@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Simplon-Occ">
+    <serverData>
+      <paths name="Simplon-Occ">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/wp-content/themes/Divi-child" local="$PROJECT_DIR$/../../../01_projects/simplon-occ-site/public/wp-content/themes/Divi-child" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
